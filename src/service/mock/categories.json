@@ -1,0 +1,42 @@
+[
+    {
+        "type": "BELEZA",
+        "description": "Beleza",
+        "countProfessionals": 235
+    },
+    {
+        "type": "CABELELEIRO", 
+        "description": "Cabeleleiro",
+        "countProfessionals": 756
+    },
+    {
+        "type": "UNHAS",
+        "description": "Unhas",
+        "countProfessionals": 12
+    },
+    {
+        "type": "TATUAGEM",
+        "description": "Tatuagem",
+        "countProfessionals": 325
+    },
+    {
+        "type": "CILIOS",
+        "description": "Cílios",
+        "countProfessionals": 235
+    },
+    {
+        "type": "MASSAGEM",
+        "description": "Massagem",
+        "countProfessionals": 756
+    },
+    {
+        "type": "DEPILACAO",
+        "description": "Depilação",
+        "countProfessionals": 12
+    },
+    {
+        "type": "SPA",
+        "description": "Spa",
+        "countProfessionals": 325
+    }
+]

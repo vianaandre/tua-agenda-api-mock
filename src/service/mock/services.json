@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "image": "https://images.fresha.com/locations/location-profile-images/260905/624147/f51b451f-5aa2-41a5-8c7b-59b4b6131a56.jpg?class=width-small",
+        "logo": "https://avatars.githubusercontent.com/u/67127843?v=4",
+        "name": "André Viana",
+        "address": {
+            "city": "Salvador",
+            "state": "BA"
+        },
+        "evaluation": 7,
+        "categories": [
+            "BELEZA",
+            "CABELELEIRO"
+        ],
+        "service": "Salão de beleza"
+    },
+    {
+        "id": 2,
+        "image": "https://images.fresha.com/locations/location-profile-images/260905/624147/f51b451f-5aa2-41a5-8c7b-59b4b6131a56.jpg?class=width-small",
+        "logo": "https://avatars.githubusercontent.com/u/67127843?v=4",
+        "name": "Alli Tattoo",
+        "address": {
+            "city": "São Paulo",
+            "state": "SP"
+        },
+        "evaluation": 7,
+        "categories": [
+            "TATUAGEM"
+        ],
+        "service": "Tatuagem"
+    },
+    {
+        "id": 3,
+        "image": "https://images.fresha.com/locations/location-profile-images/260905/624147/f51b451f-5aa2-41a5-8c7b-59b4b6131a56.jpg?class=width-small",
+        "logo": "https://avatars.githubusercontent.com/u/67127843?v=4",
+        "name": "Natura Espaço",
+        "address": {
+            "city": "Porto Alegre",
+            "state": "RS"
+        },
+        "evaluation": 7,
+        "categories": [
+            "MASSAGEM"
+        ],
+        "service": "Massagem"
+    },
+    {
+        "id": 4,
+        "image": "https://images.fresha.com/locations/location-profile-images/260905/624147/f51b451f-5aa2-41a5-8c7b-59b4b6131a56.jpg?class=width-small",
+        "logo": "https://avatars.githubusercontent.com/u/67127843?v=4",
+        "name": "Depil House",
+        "address": {
+            "city": "Belo Horizonte",
+            "state": "MG"
+        },
+        "evaluation": 7,
+        "categories": [
+            "DEPILACAO"
+        ],
+        "service": "Depilação"
+    },
+    {
+        "id": 5,
+        "image": "https://images.fresha.com/locations/location-profile-images/260905/624147/f51b451f-5aa2-41a5-8c7b-59b4b6131a56.jpg?class=width-small",
+        "logo": "https://avatars.githubusercontent.com/u/67127843?v=4",
+        "name": "Depil House Two",
+        "address": {
+            "city": "Belo Horizonte",
+            "state": "MG"
+        },
+        "evaluation": 7,
+        "categories": [
+            "DEPILACAO"
+        ],
+        "service": "Depilação"
+    },
+    {
+        "id": 6,
+        "image": "https://images.fresha.com/locations/location-profile-images/260905/624147/f51b451f-5aa2-41a5-8c7b-59b4b6131a56.jpg?class=width-small",
+        "logo": "https://avatars.githubusercontent.com/u/67127843?v=4",
+        "name": "Natura Espaço Two",
+        "address": {
+            "city": "Porto Alegre",
+            "state": "RS"
+        },
+        "evaluation": 7,
+        "categories": [
+            "MASSAGEM"
+        ],
+        "service": "Massagem"
+    }
+]

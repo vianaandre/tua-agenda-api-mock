@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "city": "São Paulo",
+        "uf": "SP"
+    },
+    {
+        "id": 2,
+        "city": "Belo Horizonte", 
+        "description": "MG"
+    },
+    {
+        "id": 3,
+        "city": "Curitiba",
+        "uf": "PR"
+    },
+    {
+        "id": 4,
+        "city": "Porto Alegre",
+        "uf": "RS"
+    },
+    {
+        "id": 5,
+        "city": "Rio de Janeiro",
+        "uf": "RJ"
+    },
+    {
+        "id": 6,
+        "city": "Santos",
+        "uf": "SP"
+    },
+    {
+        "id": 7,
+        "city": "Foz de Iguaçu",
+        "uf": "PR"
+    },
+    {
+        "id": 8,
+        "city": "Salvador",
+        "uf": "BA"
+    }
+]
